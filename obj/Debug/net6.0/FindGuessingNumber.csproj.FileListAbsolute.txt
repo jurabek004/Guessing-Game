@@ -1,0 +1,14 @@
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\obj\Debug\net6.0\FindGuessingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\obj\Debug\net6.0\FindGuessingNumber.AssemblyInfoInputs.cache
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\obj\Debug\net6.0\FindGuessingNumber.AssemblyInfo.cs
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\obj\Debug\net6.0\FindGuessingNumber.csproj.CoreCompileInputs.cache
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\bin\Debug\net6.0\FindGuessingNumber.exe
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\bin\Debug\net6.0\FindGuessingNumber.deps.json
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\bin\Debug\net6.0\FindGuessingNumber.runtimeconfig.json
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\bin\Debug\net6.0\FindGuessingNumber.dll
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\bin\Debug\net6.0\ref\FindGuessingNumber.dll
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\bin\Debug\net6.0\FindGuessingNumber.pdb
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\obj\Debug\net6.0\FindGuessingNumber.dll
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\obj\Debug\net6.0\ref\FindGuessingNumber.dll
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\obj\Debug\net6.0\FindGuessingNumber.pdb
+C:\Users\99899\Desktop\Learning C#\Chapter05\FindGuessingNumber\obj\Debug\net6.0\FindGuessingNumber.genruntimeconfig.cache
